@@ -1,6 +1,6 @@
 {
-  "name": "AK TopApp",
-  "short_name": "TopApp",
+  "name": "AK Apps",
+  "short_name": "MyApp",
   "version": "2024.8.1.0",
   "lang": "en-US",
   "start_url": "./apps/",
